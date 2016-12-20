@@ -21,6 +21,8 @@ they happen.
     **Mamotromico Cyberian** and 4 other(s) killed **Heigar Omaristos** (*Algos*; *22,677,682.75 ISK*) in **Oicx** -- https://zkillboard.com/kill/58436085
     **Mamotromico Cyberian**, Chomitin Bane and 6 other(s) killed **Timoti Rajas** (*Algos*; *20,911,491.02 ISK*) in **Oicx** -- https://zkillboard.com/kill/58436093
 
+<img src="http://i.imgur.com/XyGcxTi.png">
+
 ##Downloads
 
 Go to the [Releases Page](https://github.com/fsufitch/evediscordkm/releases) to find the latest version for your OS. If your OS is not there, set up a Go development environment and run:
