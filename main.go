@@ -10,6 +10,7 @@ import (
 	"os"
 	"sort"
 	"strings"
+	"strconv"
 
 	humanize "github.com/dustin/go-humanize"
 )
@@ -119,7 +120,7 @@ func inputSplit(input string) []string {
 
 func entityIsRelevant(entity idNameEntity, tokens []string) bool {
 	for _, token := range tokens {
-		if token == string(entity.ID) || token == entity.Name {
+		if token == strconv.Itoa(entity.ID) || token == entity.Name {
 			return true
 		}
 	}
